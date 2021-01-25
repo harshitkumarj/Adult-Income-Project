@@ -9,3 +9,5 @@ Our goal is to eventually provide these insights to correctly predict the Income
 # Contibutors
 * Harshit Kumar Jain ([@harshitkumarj](https://github.com/harshitkumarj))
 * Mudit Bhandari ([@mudit2000](https://github.com/mudit2000))
+<br>
+<p><img src='income.png'>
